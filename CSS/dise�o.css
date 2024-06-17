@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #007bff; /* Azul */
+  }
+  .nav-link {
+    color: white !important;
+  }
+  .nav-link:hover {
+    background-color: #0056b3; /* Azul fuerte */
+    color: white !important;
+  }
+  .jumbotron {
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+
+  .header {
+    height: 100px;
+    background-image: url('../IMG/carros.jpg'); /* Reemplaza esta URL con la de tu imagen */
+    background-size: contain;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: solid;
+}
